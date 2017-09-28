@@ -1,1 +1,1 @@
-# vue-music
+# vue-study-music
